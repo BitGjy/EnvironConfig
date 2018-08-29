@@ -1,0 +1,1 @@
+首先下载好opencv的包，然后将opencv/lib/python～/package-site中的内容拷入相应的python启动环境中
